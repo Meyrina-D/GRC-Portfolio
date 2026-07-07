@@ -1,0 +1,12 @@
+| Document                 | Type | Doc ID            |
+| ------------------------ | ---- | ----------------- |
+| Management Review        | PROC | CL/PROC/MGMT-REV  |
+| MOM Template             | TEMP | CL/TEMP/MGMT-MOM  |
+| Roles & Responsibilities | POL  | CL/POL/ROLES      |
+| Password Policy          | POL  | CL/POL/PASSWORD   |
+| HR Security              | POL  | CL/POL/HR-SEC     |
+| Clear Desk               | POL  | CL/POL/CLEAR-DESK |
+| Offboarding              | PROC | CL/PROC/HR-OFF    |
+| Communication            | PROC | CL/PROC/COMM      |
+| Document Control         | PROC | CL/PROC/DOC-CTRL  |
+| Asset Inventory          | PROC | CL/PROC/ASSET     |
